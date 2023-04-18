@@ -2,7 +2,13 @@
 ### My Name is Daniel and i'm a developper always interested about the coding world!
 
 
-#### This is my actual stack!
+### This is my actual stack!
+
+##### On front-end
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" target="_logo_angular" height="50px">
+
+
+
 <!--
 **PessoaDaniel/PessoaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
