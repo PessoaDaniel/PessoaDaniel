@@ -23,7 +23,10 @@
     <img border="0px" margin="5px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" target="_logo_angular" height="50px">
     <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" height="50px">
     <img border="0px" margin="5px" src="https://seeklogo.com/images/N/nodemon-logo-9F66F45AB1-seeklogo.com.png" height="50px">
-      <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" height="50px">
+    <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" height="50px">
+    <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" height="50px">
+    <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/1200px-PHPUnit_Logo.svg.png" height="50px">
+    <img border="0px" margin="5px" src="https://getcomposer.org/img/logo-composer-transparent2.png" height="50px">  
 </div>  
 
 <!--
