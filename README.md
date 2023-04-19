@@ -13,9 +13,7 @@
     <img border="0px" margin="5px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" target="_logo_angular" height="50px">
 </div>  
 
----
-
-##### On back-end
+#### On back-end
 <div> 
     <img border="0px" src="https://www.nssoftware.pt/wp-content/uploads/codeigniter-1.png" target="_logo_angular" height="50px">
     <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" target="_logo_angular" height="50px">
@@ -34,18 +32,14 @@
 
  </div>
 
----
-
-##### On mobile
+#### On mobile
 
  <div> 
     <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="50px">
     <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" target="_logo_angular" height="50px">
  </div>  
 
----
-
-##### Programming languages
+#### Programming languages
 
  <div> 
     <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" height="50px">
@@ -54,8 +48,6 @@
       <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" target="_logo_angular" height="50px">
       <img border="0px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" target="_logo_angular" height="50px">
  </div>  
-
----
 
       
 <!--
