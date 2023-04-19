@@ -35,7 +35,7 @@
 #### On mobile
 
  <div> 
-    <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="50px">
+    <img border="0px" src="https://i.morioh.com/2020/02/28/1195ab76f0b1.jpg" height="50px">
     <img border="0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" target="_logo_angular" height="50px">
  </div>  
 
