@@ -5,8 +5,13 @@
 ### This is my actual stack!
 
 ##### On front-end
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" target="_logo_angular" height="50px">
-
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" target="_logo_angular" height="50px">
+    </td>
+  </tr>
+</table>  
 
 
 <!--
