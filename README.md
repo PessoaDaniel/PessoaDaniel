@@ -26,7 +26,8 @@
     <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" height="50px">
     <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" height="50px">
     <img border="0px" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/1200px-PHPUnit_Logo.svg.png" height="50px">
-    <img border="0px" margin="5px" src="https://getcomposer.org/img/logo-composer-transparent2.png" height="50px">  
+    <img border="0px" margin="5px" src="https://getcomposer.org/img/logo-composer-transparent2.png" height="50px">
+    <img border="0px" margin="5px" src="https://www.doctrine-project.org/logos/doctrine-logo.svg?1a5b7c" height="50px">  
 </div>  
 
 <!--
