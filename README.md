@@ -1,12 +1,12 @@
 # Hi there 👋 
+
+<div align="" >
+  <a href="https://github.com/gabrielncorreia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pessoaDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaDaniel&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 ### My Name is Daniel and i'm a full-stack developper always interested about the coding world!
-
-
-                  
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=pessoaDaniel&theme=darcula&show_icons=true)](https://github.com/PessoaDaniel)
-                  
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pessoaDaniel&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
 ### This is my actual know-how!
 ----
 ##### On front-end
