@@ -8,7 +8,7 @@
   
 ### My Name is Daniel and i'm a full-stack developper always interested about the coding world!
 
-#### Technologies I Use:
+#### My know-how:
 <div style="display: inline_block"><br>
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
