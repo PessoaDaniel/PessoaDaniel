@@ -3,7 +3,7 @@
 <div align="" >
   <a href="https://github.com/pessoaDaniel">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=pessoaDaniel&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaDaniel&langs_count=5&theme=dark"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaDaniel&langs_count=5&theme=dark&layout=compact"/>
 </div>
   
 ### My Name is Daniel and i'm a full-stack developper always interested about the coding world!
