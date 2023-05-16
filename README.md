@@ -56,6 +56,12 @@
       <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 
   </div>
+    
+#### Another Knowledge:
+    
+  <div style="display: inline_block"><br>
+      <img alt="js" height="30" title="Scrum" width="30" src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png">
+    
 <!--
 **PessoaDaniel/PessoaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
