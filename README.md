@@ -59,21 +59,10 @@
   </div>
     
 #### Another Knowledge:
-    
-  <div style="display: inline_block"><br>
-      <img alt="js" height="30" title="Scrum" width="30" src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png">
-    
-<!--
-**PessoaDaniel/PessoaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+      <td>Scrun</td>
+      <td>Domain Driven Design</td>
+      <td>Design Patterns</td>
+    </tr>
+</table>
