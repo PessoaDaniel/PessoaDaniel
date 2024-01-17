@@ -36,33 +36,6 @@
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
   <img alt="js" height="30" width="30" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
-
  </div>
   
-#### My actual leaning stack for 2023: 
-  <div style="display: inline_block"><br>
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-#### Iinterested:
- 
-  <div style="display: inline_block"><br>
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-      <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-
-  </div>
-    
-#### Another Knowledge:
-<table>
-    <tr>
-      <td>Scrun</td>
-      <td>Domain Driven Design</td>
-      <td>Design Patterns</td>
-    </tr>
-</table>
