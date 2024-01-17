@@ -8,8 +8,6 @@
   
 ### My Name is Daniel and i'm a full-stack developper always interested about the coding world!
 
-#### My know-how:
-
 <div style="display: inline_block"><br>
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
